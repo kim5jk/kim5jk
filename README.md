@@ -4,6 +4,8 @@
 
 PhD in Mechanical Engineering @ University of Cincinnati — dissertation on vision-based experimental modal analysis (PEMA): extracting structural vibration data from a single camera. The core question of my research is the same one I carry everywhere: *how do you know what you're measuring is real?*
 
+---
+
 ### 🔭 What I'm working on
 
 - **[loadcell-temp-compensation](https://github.com/kim5jk/loadcell-temp-compensation)** — a small Python library for removing temperature drift from cheap load cells. Turns out software can make a $10 sensor behave much better.
@@ -12,17 +14,34 @@ PhD in Mechanical Engineering @ University of Cincinnati — dissertation on vis
 
 ---
 
-### 🧰 Tools I use
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+### Tools & Stack
+ 
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ 
+**Data & Scientific Computing**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+ 
+**Computer Vision & Signal Processing**  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FFT](https://img.shields.io/badge/FFT-signal_processing-orange?style=flat-square)
+![Modal Analysis](https://img.shields.io/badge/Modal_Analysis-EMA/OMA-blue?style=flat-square)
+ 
+**Simulation & Engineering**  
+![Abaqus](https://img.shields.io/badge/Abaqus-FEA-critical?style=flat-square)
+![Photogrammetry](https://img.shields.io/badge/Photogrammetry-DIC/PEMA-green?style=flat-square)
+ 
+**AI & Dev Tools**  
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+ 
 ---
 
 ### 🐍 Recent activity
