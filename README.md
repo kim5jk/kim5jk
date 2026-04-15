@@ -25,7 +25,7 @@ I live at the seam between **physical systems** and **machine intelligence** —
 ### 🔭 Currently Building
 
 - 🌡️ **[loadcell-temp-compensation](https://github.com/kim5jk/loadcell-temp-compensation)** — a pip-installable library that gives a $10 load cell **5.9× better stability** via segment-based linear regression. Validated over 21 days, 8.7 °C swings.
-- 🎓 **[student_agent](https://github.com/kim5jk/student_agent)** — multi-agent AI assistant (LangGraph + Claude Haiku/Sonnet + FastAPI) that onboards university students conversationally, matches them for study groups, and proactively checks in before exams.
+- 🎓 **[student-agent](https://github.com/kim5jk/student-agent)** — multi-agent AI assistant (LangGraph + Claude Haiku/Sonnet + FastAPI) that onboards university students conversationally, matches them for study groups, and proactively checks in before exams.
 - 📖 Learning: pgvector at scale, real-time streaming compensation, and writing agents that know when *not* to speak.
 
 ---
@@ -86,8 +86,8 @@ Software-based temperature compensation — **0.620 g → 0.105 g** stability, *
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/kim5jk/student_agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kim5jk&repo=student_agent&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="student_agent" />
+<a href="https://github.com/kim5jk/student-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kim5jk&repo=student-agent&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="student-agent" />
 </a>
 
 **Multi-agent AI for campus apps.**
