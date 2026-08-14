@@ -8,9 +8,9 @@ PhD in Mechanical Engineering @ University of Cincinnati — dissertation on vis
 
 ### 🔭 What I'm working on
 
-- **[loadcell-temp-compensation](https://github.com/kim5jk/loadcell-temp-compensation)** — a small Python library for removing temperature drift from cheap load cells. Turns out software can make a $10 sensor behave much better.
 - **[student-agent](https://github.com/kim5jk/student-agent)** — a multi-agent AI assistant (LangGraph + Claude) that helps university students find study groups and activities. Early prototype.
 - **[DS_Projects](https://github.com/kim5jk/DS_Projects)** — assorted data-science experiments and coursework.
+- **Dissertation research** — photogrammetry-based experimental modal analysis for thin structures of general geometry.
 
 ---
 
@@ -55,19 +55,9 @@ PhD in Mechanical Engineering @ University of Cincinnati — dissertation on vis
 
 ### How I Think
 
-I grew up in Korea, moved to the US at 17, and have lived across 8 countries. That taught me something no textbook does: every system — mechanical, human, artificial — encodes assumptions about what matters. My job is to find them, test them, and make them visible.
-
 My technical work lives at the intersection of **signal processing**, **experimental validation**, and **data visualization**. I don't trust a result I can't see, reproduce, and break.
 
-**Stack:** Python · NumPy · SciPy · OpenCV · Plotly · Abaqus · Time Series Analysis · Experimental Design
-
----
-
-### What I Care About
-
-I believe the best tools don't give you answers — they give you the *capacity* to find your own.
-
-That's why I build open-source. That's why I obsess over interactive visualization. And that's why I'm drawn to AI safety: the question of whether a system is *actually* aligned with what it claims is the measurement problem of our generation.
+I grew up in Korea, moved to the US at 17, and have traveled across 8 countries. That taught me something no textbook does: every system — mechanical, human, artificial — encodes assumptions about what matters. My job is to find them, test them, and make them visible.
 
 ---
 
