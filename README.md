@@ -9,7 +9,6 @@ PhD in Mechanical Engineering @ University of Cincinnati — dissertation on vis
 ### 🔭 What I'm working on
 
 - **[student-agent](https://github.com/kim5jk/student-agent)** — a multi-agent AI assistant (LangGraph + Claude) that helps university students find study groups and activities. Early prototype.
-- **[DS_Projects](https://github.com/kim5jk/DS_Projects)** — assorted data-science experiments and coursework.
 - **Dissertation research** — photogrammetry-based experimental modal analysis for thin structures of general geometry.
 
 ---
